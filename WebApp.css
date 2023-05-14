@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+* {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+header {
+    width: 100%;
+    background-color: lightyellow;
+}
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.stella {
+    width: 150px;
+}
+.text {
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    border: 10px solid lightyellow;
+    border-radius: 20px;
+}
+.text a {
+    text-decoration: none;
+    color: lightblue;
+    transition: 1s;
+}
+.text a:hover {
+    color: lightgreen;
+}
+.daffodill {
+    width: 400px;
+}
+.introducao {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.atul {
+    width: 400px;
+}
+.video {
+    display: flex;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.manual {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.mundo {
+    border-radius: 10px;
+}
+.stanley {
+    width: 250px;
+}
+.scratch {
+    display: flex;
+    margin-bottom: 50px;
+}
+.a {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.foto {
+    width: 250px;
+}
+.gwen {
+    width: 300px;
+}
+.exemplo {
+    width: 400px;
+}
+.tinkercad {
+    display: flex;
+    justify-content: center;  
+}
+.b {
+    display: flex;
+    justify-content: center;
+}
+.help {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
